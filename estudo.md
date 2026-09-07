@@ -12,3 +12,4 @@
 -Python 
 -HTML
 -CSS
+-JavaScript
